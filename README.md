@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🎤 runDMZ
 
-<!--
-**runDMZ/runDMZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *I build cloud architectures where every flow has its place, and intruders stay in the DMZ.*
 
-Here are some ideas to get you started:
+Systems & security admin on the road to **secure cloud architecture**.
+My belief: security is designed in from the start, not bolted on once the infrastructure is in production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎛️ My mixing desk
+- **Identity & access**: Entra ID, MFA, Conditional Access, Zero Trust
+- **Security**: Microsoft Defender, endpoint hardening, ISO 27001 compliance
+- **Scripting**: PowerShell, Bash, Python
+- **In the studio**: Azure, Ansible
+
+### 💿 The tracklist
+M365 admin scripts, security as code, hardened cloud infrastructure.
