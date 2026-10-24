@@ -12,4 +12,5 @@ My belief: security is designed in from the start, not bolted on once the infras
 - **In the studio**: Azure, Ansible
 
 ### 💿 The tracklist
-M365 admin scripts, security as code, hardened cloud infrastructure.
+M365 admin scripts, security as code, hardened cloud infrastructure: 
+- [qubes-split-ssh](https://github.com/runDMZ/qubes-split-ssh): SSH key isolated in an offline qube, every use approved from dom0
