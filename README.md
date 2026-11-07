@@ -12,5 +12,6 @@ My belief: security is designed in from the start, not bolted on once the infras
 - **In the studio**: Azure, Ansible
 
 ### 💿 The tracklist
-M365 admin scripts, security as code, hardened cloud infrastructure: 
-- [qubes-split-ssh](https://github.com/runDMZ/qubes-split-ssh): SSH key isolated in an offline qube, every use approved from dom0
+- [**sysadmin-mixtape**](https://github.com/runDMZ/sysadmin-mixtape): everyday admin scripts for Azure and Microsoft 365: inventories, costs, tenant migration prep, Autopilot enrolment. Bash next
+- [**security-beats**](https://github.com/runDMZ/security-beats): my hardened Qubes OS workstation (hardened template, split-SSH) and read-only Azure audits: RBAC, network exposure, storage
+- **infra-bassline** *(in the studio)*: infrastructure as code, starting with a small secured Azure landing zone
